@@ -1,6 +1,6 @@
 # Digital Clock System on Arty Z7
 
-A comprehensive digital clock implementation for the Arty Z7 FPGA development board, featuring time, date, alarm, and stopwatch functionality. This project demonstrates hardware design concepts including clock management, finite state machines, and user interface implementation.
+A digital clock implementation for the Arty Z7 FPGA development board, featuring time, date, alarm, and stopwatch functionality. This project demonstrates hardware design concepts including clock management, finite state machines, and user interface implementation.
 
 ## Hardware Platform
 
